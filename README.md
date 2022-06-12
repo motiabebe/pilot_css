@@ -1,7 +1,5 @@
 # pilot_css
 
-# css-framework
-
 // use classes (class="classname")
 
 Text Align =>
