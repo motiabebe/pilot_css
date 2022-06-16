@@ -33,7 +33,7 @@ Cards (=> card-icon, card-title, card-data) <br>
 
 Start with copy and pasting this line (<link rel="stylesheet" href="https://motiabebe.github.io/pilot_css/main.css">)
 
-Examples => https://motiabebe.github.io/pilot_css/Pilot.html
+Examples => https://motiabebe.github.io/pilot_css/index.html
 
 
 
