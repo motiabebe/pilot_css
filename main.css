@@ -243,10 +243,27 @@ i {
 .img-circle {
     border-radius: 50%;
 }
-/* small profile picture image */
 .img-small {
     width: 100px;
     height: 100px;
+}
+.img-min {
+    width: 250px;
+    height:250px;
+}
+/* Underline */
+.underline {
+    text-decoration: underline!important;
+}
+/* Table */
+.table {
+    margin-top: 2%;
+    border-collapse: collapse;
+    width: 100%;
+}
+.table td, .table th {
+    border: 1px solid;
+    padding: 0.5rem;
 }
 
 /* User Navbar */
